@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-Get in touch with us!
+Get in touch with me!
