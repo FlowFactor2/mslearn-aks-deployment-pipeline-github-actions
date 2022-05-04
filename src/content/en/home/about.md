@@ -4,11 +4,11 @@ image: "profile.jpg"
 weight: 8
 ---
 
-We're **Contoso** the awesome drone company!
+My name is Wout Beyens and I'm an intern at FlowFactor.
 
-### Why choose us?
+### My assignment
 
-* Better quality
-* Top-notch professionals
-* We understand you
-* We're artists
+* CICDaas
+* Deploy a k8s cluster in the cloud by using Terraform
+* Deploy a modular CICD pipeline for multiple programming languages
+* Add vulnerability scanning to the pipeline
